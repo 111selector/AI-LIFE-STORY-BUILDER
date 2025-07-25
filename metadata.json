@@ -1,0 +1,6 @@
+{
+  "name": "AI Life Story Builder",
+  "description": "An interactive storytelling assistant powered by Gemini. Create unique, branching stories with visual suggestions and monetization features for creators.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
